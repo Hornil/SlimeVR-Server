@@ -42,23 +42,23 @@ skeleton_bone-NONE = Пусто
 skeleton_bone-HEAD = Голова
 skeleton_bone-NECK = Длина шеи
 skeleton_bone-CHEST = Длина груди
-skeleton_bone-CHEST_OFFSET = Оффсет груди
+skeleton_bone-CHEST_OFFSET = Смещение груди
 skeleton_bone-WAIST = Длина талии
 skeleton_bone-HIP = Длина таза
-skeleton_bone-HIP_OFFSET = Оффсет таза
+skeleton_bone-HIP_OFFSET = Смещение таза
 skeleton_bone-HIPS_WIDTH = Ширина бедер
 skeleton_bone-UPPER_LEG = Длина бедра
 skeleton_bone-LOWER_LEG = Длина лодышки
 skeleton_bone-FOOT_LENGTH = Длина стопы
 skeleton_bone-FOOT_SHIFT = Смещение стопы
-skeleton_bone-SKELETON_OFFSET = Оффсет скелета
+skeleton_bone-SKELETON_OFFSET = Смещение скелета
 skeleton_bone-SHOULDERS_DISTANCE = Дистанция плеч
 skeleton_bone-SHOULDERS_WIDTH = Ширина плеч
 skeleton_bone-UPPER_ARM = Длина предплечья
 skeleton_bone-LOWER_ARM = Длина нижнего предплечья
 skeleton_bone-CONTROLLER_Y = Дистанция контроллера Y
 skeleton_bone-CONTROLLER_Z = Дистанция контроллера Z
-skeleton_bone-ELBOW_OFFSET = Оффсет локтя
+skeleton_bone-ELBOW_OFFSET = Смещение локтя
 
 ## Tracker reset buttons
 reset-reset_all = Сбросить все пропорции
