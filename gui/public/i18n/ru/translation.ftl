@@ -158,7 +158,7 @@ tracker-settings-name_section-description = Дай ему милое имя :)
 tracker-settings-name_section-placeholder = Левая нога NightyBeast'а
 
 ## Tracker part card info
-tracker-part_card-no_name = Безымянный
+tracker-part_card-no_name = Нет имени
 tracker-part_card-unassigned = Не привязан
 
 ## Body assignment menu
@@ -322,7 +322,7 @@ settings-serial = Серийная консоль
 settings-serial-description =
     Это оперативный информационный канал для серийной связи.
      Может быть полезно, если вам нужно знать, что прошивка работает неправильно.
-settings-serial-connection_lost = Соединение с серийным портом потеряно, повторное подключение...
+settings-serial-connection_lost = Соединение потеряно, повторное подключение...
 settings-serial-reboot = Перезагрузить
 settings-serial-factory_reset = Заводской сброс
 settings-serial-get_infos = Получить иформацию
@@ -388,7 +388,7 @@ onboarding-wip = В работе W.I.P.
 
 ## Wi-Fi setup
 onboarding-wifi_creds-back = Вернуться к введению
-onboarding-wifi_creds = Вставьте данные Wi-Fi
+onboarding-wifi_creds = Введите данные Wi-Fi
 # This cares about multilines
 onboarding-wifi_creds-description =
     Трекеры будут использовать эти учетные данные для беспроводного подключения.
@@ -397,10 +397,10 @@ onboarding-wifi_creds-skip = Пропустить настройки Wi-Fi
 onboarding-wifi_creds-submit = Отправить!
 onboarding-wifi_creds-ssid =
     .label = Имя Wi-Fi
-    .placeholder = Вставьте имя Wi-Fi
+    .placeholder = Введите имя Wi-Fi
 onboarding-wifi_creds-password =
     .label = Пароль
-    .placeholder = Вставьте пароль Wi-Fi
+    .placeholder = Введите пароль Wi-Fi
 
 ## Mounting setup
 onboarding-reset_tutorial-back = Вернитесь к калибровке крепления
@@ -422,8 +422,8 @@ onboarding-enter_vr-description = Наденьте все ваши трекер�
 onboarding-enter_vr-ready = Я готов
 
 ## Setup done
-onboarding-done-title = Вы готовы!
-onboarding-done-description = Наслаждайтесь игре!
+onboarding-done-title = Всё готово!
+onboarding-done-description = Наслаждайтесь игрой!
 onboarding-done-close = Закрыть гид
 
 ## Tracker connection setup
@@ -485,7 +485,7 @@ onboarding-automatic_mounting-done-title = Привязка поворотов �
 onboarding-automatic_mounting-done-description = Калибровка вашей привязки завершена!
 onboarding-automatic_mounting-done-restart = Вернуться к началу
 onboarding-automatic_mounting-mounting_reset-title = Сброс крепления
-onboarding-automatic_mounting-mounting_reset-step-0 = 1. Присядьте в позу "лыжи", согнув ноги, наклонив верхнюю часть тела вперед и согнув руки.
+onboarding-automatic_mounting-mounting_reset-step-0 = 1. Присядьте в позу "лыжника", согнув ноги, наклонив верхнюю часть тела вперед и согнув руки.
 onboarding-automatic_mounting-mounting_reset-step-1 = 2. Нажмите кнопку "Сброс крепления" и подождите 3 секунды, прежде чем установочные повороты трекеров будут сброшены.
 onboarding-automatic_mounting-preparation-title = Подготовка
 onboarding-automatic_mounting-preparation-step-0 = 1. Встаньте прямо, руки по бокам.
