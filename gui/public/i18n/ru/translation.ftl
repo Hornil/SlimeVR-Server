@@ -22,7 +22,7 @@ body_part-RIGHT_UPPER_ARM = Правое предплечье
 body_part-RIGHT_LOWER_ARM = Правое нижнее предплечье
 body_part-RIGHT_HAND = Правая рука
 body_part-RIGHT_UPPER_LEG = Правое бедро
-body_part-RIGHT_LOWER_LEG = Правая лодышка
+body_part-RIGHT_LOWER_LEG = Правая голень
 body_part-RIGHT_FOOT = Правая ступня
 body_part-RIGHT_CONTROLLER = Правый контроллер
 body_part-CHEST = Грудь
@@ -33,7 +33,7 @@ body_part-LEFT_UPPER_ARM = Левое предплечье
 body_part-LEFT_LOWER_ARM = Левое нижнее предплечье
 body_part-LEFT_HAND = Левая рука
 body_part-LEFT_UPPER_LEG = Левое бедро
-body_part-LEFT_LOWER_LEG = Левая лодышка
+body_part-LEFT_LOWER_LEG = Левая голень
 body_part-LEFT_FOOT = Левая ступня
 body_part-LEFT_CONTROLLER = Левый контроллер
 
